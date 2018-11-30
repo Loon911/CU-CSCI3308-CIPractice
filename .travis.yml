@@ -1,0 +1,4 @@
+os: Mac
+script:
+sudo: not required
+install:
